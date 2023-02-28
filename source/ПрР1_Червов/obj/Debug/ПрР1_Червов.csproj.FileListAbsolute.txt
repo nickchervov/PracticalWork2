@@ -1,0 +1,24 @@
+E:\Проекты\VisualStudioProjects\ПрР1_Червов\ПрР1_Червов\bin\Debug\ПрР1_Червов.exe.config
+E:\Проекты\VisualStudioProjects\ПрР1_Червов\ПрР1_Червов\bin\Debug\ПрР1_Червов.exe
+E:\Проекты\VisualStudioProjects\ПрР1_Червов\ПрР1_Червов\bin\Debug\ПрР1_Червов.pdb
+E:\Проекты\VisualStudioProjects\ПрР1_Червов\ПрР1_Червов\obj\Debug\ПрР1_Червов.csproj.AssemblyReference.cache
+E:\Проекты\VisualStudioProjects\ПрР1_Червов\ПрР1_Червов\obj\Debug\ПрР1_Червов.csproj.SuggestedBindingRedirects.cache
+E:\Проекты\VisualStudioProjects\ПрР1_Червов\ПрР1_Червов\obj\Debug\ПрР1_Червов.csproj.CoreCompileInputs.cache
+E:\Проекты\VisualStudioProjects\ПрР1_Червов\ПрР1_Червов\obj\Debug\ПрР1_Червов.exe
+E:\Проекты\VisualStudioProjects\ПрР1_Червов\ПрР1_Червов\obj\Debug\ПрР1_Червов.pdb
+C:\Users\student\Desktop\ПрР1_Червов\ПрР1_Червов\bin\Debug\ПрР1_Червов.exe.config
+C:\Users\student\Desktop\ПрР1_Червов\ПрР1_Червов\bin\Debug\ПрР1_Червов.exe
+C:\Users\student\Desktop\ПрР1_Червов\ПрР1_Червов\bin\Debug\ПрР1_Червов.pdb
+C:\Users\student\Desktop\ПрР1_Червов\ПрР1_Червов\obj\Debug\ПрР1_Червов.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\ПрР1_Червов\ПрР1_Червов\obj\Debug\ПрР1_Червов.csproj.SuggestedBindingRedirects.cache
+C:\Users\student\Desktop\ПрР1_Червов\ПрР1_Червов\obj\Debug\ПрР1_Червов.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\ПрР1_Червов\ПрР1_Червов\obj\Debug\ПрР1_Червов.exe
+C:\Users\student\Desktop\ПрР1_Червов\ПрР1_Червов\obj\Debug\ПрР1_Червов.pdb
+C:\Users\student\Desktop\Практическая работа №1 Червов\source\ПрР1_Червов\bin\Debug\ПрР1_Червов.exe.config
+C:\Users\student\Desktop\Практическая работа №1 Червов\source\ПрР1_Червов\bin\Debug\ПрР1_Червов.exe
+C:\Users\student\Desktop\Практическая работа №1 Червов\source\ПрР1_Червов\bin\Debug\ПрР1_Червов.pdb
+C:\Users\student\Desktop\Практическая работа №1 Червов\source\ПрР1_Червов\obj\Debug\ПрР1_Червов.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\Практическая работа №1 Червов\source\ПрР1_Червов\obj\Debug\ПрР1_Червов.csproj.SuggestedBindingRedirects.cache
+C:\Users\student\Desktop\Практическая работа №1 Червов\source\ПрР1_Червов\obj\Debug\ПрР1_Червов.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\Практическая работа №1 Червов\source\ПрР1_Червов\obj\Debug\ПрР1_Червов.exe
+C:\Users\student\Desktop\Практическая работа №1 Червов\source\ПрР1_Червов\obj\Debug\ПрР1_Червов.pdb
